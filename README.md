@@ -112,7 +112,7 @@ This project helps you understand:
 
 **N Gamani**
 
-GitHub: https://github.com/yourusername
+
 
 ---
 
